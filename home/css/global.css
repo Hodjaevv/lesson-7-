@@ -11,6 +11,9 @@ body a{
 body ul{
     list-style: none;
 }
+li{
+    padding-left: 20px;
+}
 main,footer{
     width: 1440px;
     margin: 0 auto;
